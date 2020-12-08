@@ -14,3 +14,17 @@ import os
 import threading
 import tkinter.font as tkFont
 
+
+1) Normal UI
+
+![](gui_01.PNG)
+
+
+2) Counting Character
+
+![](gui_02.PNG)
+
+
+3) Theme Change
+
+![](gui_03.PNG)
